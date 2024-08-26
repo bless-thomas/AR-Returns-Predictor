@@ -1,6 +1,6 @@
-# AR-Returns-Predictor
+# AR-Returns-Model
 
-The “AR-Returns-Predictor” project aims to predict stock returns using an autoregressive (AR) model. We follow a step-by-step process, starting from data collection to model evaluation. Below, I’ll outline the key steps and provide an explanation for each:
+The “AR-Returns-Predictor” project aims to create a model to predict stock returns using an autoregressive (AR) model. We follow a step-by-step process, starting from data collection to model evaluation. Below, I’ll outline the key steps and provide an explanation for each:
 
 ## Data Collection and Preprocessing:
 - We fetch historical stock data using the yfinance library.
